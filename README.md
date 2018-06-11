@@ -3,6 +3,8 @@ Golang wrapper for the Google Wifi API
 
 So far, only the status endpoint has been implemented.
 
+See [olssonm/google-wifi-api](https://github.com/olssonm/google-wifi-api) for other endpoints
+
 ## Usage
 
 ```go
